@@ -1,2 +1,2 @@
 # Pitch-Perfect
-voide modulating app as part of a tutorial
+voide modulating iOS app as part of a tutorial
